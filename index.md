@@ -1,37 +1,125 @@
-## Welcome to GitHub Pages
+CNXSec Group добро пожаловать на сервер!
+Версия: Любая
+Перенос сайта на другие домены и HTTPS!
+https://cnxsecleader.wixsite.com/fsfh 
 
-You can use the [editor on GitHub](https://github.com/cnxsecleader/cnxqpf.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+http://www.cnx490.vastserve.com/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Открылся сайт по разработке и помощи! Совершенно бесплатно с HTTPS!
 
-### Markdown
+Сервер останется ну все проекты будут импортированы и в другие сайты и само ПО! 
+Сайт с HTTPS защитой и IT решениями. Это будет запасным вариантом если закончится срок этого домена и сервера хостинга.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ссылка внизу
 
-```markdown
-Syntax highlighted code block
+https://qpf880841618.wordpress.com
 
-# Header 1
-## Header 2
-### Header 3
+https://cnx490.wixsite.com/glorax
 
-- Bulleted
-- List
+http://qpf-cnxsec.getenjoyment.net/
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnxsecleader/cnxqpf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+http://rpcs.nichesite.org/?i=1
+
+https://cnxsec.qpf.su/pages/rpcsfreef
+
+RPCS FREE Software GNU имеет множество проектов, бесплатный интернет, а также свои технологии для всех цивилизаций, все общественное и доступно всем, авторские права тут указаны реальных создателей, а также нет кражи и плагиата, все бесплатно.
+
+Затирать копирайты запрещено как и разработки все общее и имеет GNU свободу для всех!
+
+ 
+
+http://qpf.o92366ly.beget.tech/
+http://o92366ly.beget.tech/
+
+Версия: 3 New Beget
+Ранее здесь располагался бот , но теперь вместо него появилось файловое хранилище и открылся личный блог cnxsecleader
+
+после небольшого перерыва открылся бот для проекта! 
+
+Также доступно файловое хранилище и блог о компьютерном железе и технологиях и о всем остальном!
+
+Открылся форум, аналогичен mybb На нём можно найти, шпоры, лекции, конспекты, решения задач, проекты, а также курсы, а ещё много чего интересного.
+Также теперь доступен сервис точной температуры в Железногорске Красноярского Края в графическом и текстовом представлении.
+Удачи в интернете!
+Кстати, связаться со мной можно по email: cnxsec@yandex.ru
+Разработка проектов 
+https://www.evennode.com/
+
+heroku.com
+
+https://qlihost.ru/
+
+https://infinityfree.net/
+
+https://cryptomining-ltd.com/193908487/
+
+https://vk.com/board84392011
+
+Здесь я буду публиковать список бесплатных хостингов, а Вы постарайтесь по возможности оставлять отзывы о тех, услугами которых пользуетесь хотя бы неделю.
+
+1) www.zzz.com.ua/ru — PHP (5.4, 5.5, 5.6, 7.0), MySQL/SQLite, FTP, Почта, Анлим трафик, Cron, Бесплатные домены 2-3 уровня, Моментальная регистрация без SMS и т.д., Добавляет на сайт инфу о себе
+
+2) www.000webhost.com — 100гб трафика, cPanel, PHP, MySQL/SQLite, FTP, Почта, Cron, Билдер сайтов, Бесплатные домены 2-3 уровня, Моментальная регистрация без SMS и т.д.
+
+3) www.free.beget.ru/ru — MySQL 5, PHP 5/7, Python 2.7, Zend, phpMyAdmin, предоставляют бесплатный хостинг по запросу, требуется указывать телефонный номер.
+
+4) www.awardspace.com — Бесплатный хостинг, дополнительная информация отсутствует.
+
+5) www.x10hosting.com — Бесплатный хостинг, дополнительная информация отсутствует.
+
+6) www.freehostia.com — Бесплатный хостинг, дополнительная информация отсутствует.
+
+7) www.freewebhostingarea.com — Бесплатный хостинг, дополнительная информация отсутствует.
+
+8) www.5gbfree.com — Бесплатный хостинг, дополнительная информация отсутствует.
+
+9) www.bravenet.com — Бесплатный хостинг, дополнительная информация отсутствует.
+
+10) webfreehosting.net — Бесплатный хостинг, дополнительная информация отсутствует.
+
+11) www.heroku.com — Отличный хостинг для сетевых демонов, онлайн скриптов на Node.JS и любых языков вообще, Бесплатный аккаунт предоставляет: 512mb Ram, 1web/1worker, Засыпает через 30 минут неактивности
+
+12) www.pages.github.com — Бесплатный HTML хостинг от Github, отлично подойдет для штук типа Jeckyll
+
+* Дабы не использовать свою почту при регистрации, Вы можете воспользоваться услугами https://temp-mail.org
+
+http://rpcs.nichesite.org/?i=1
+
+https://cnxsec.qpf.su/pages/rpcsfreef
+
+https://cnxsec.9bb.ru/
+
+100088.noc.su
+Дневник онлайн
+
+https://helloworld.ru/
+
+https://krasnoyarsk.rt.ru/
+
+https://id.rambler.ru/account/profile
+
+https://www.rambler.ru/
+
+webmoney.ru/
+
+https://mail.ru/
+
+https://helloworld.ru/
+
+https://ru.wix.com/
+
+https://fe.ru/
+
+http://noc.su/
